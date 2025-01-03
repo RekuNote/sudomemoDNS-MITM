@@ -5,7 +5,6 @@
 > **Note:** This project currently does not have proper support for Windows.
 
 ## Setup
-
 1. **Setup the Environment:**
     - Ensure you have Python 3.x installed.
     - Install required dependencies: `pip install dnslib requests`.
