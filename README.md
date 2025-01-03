@@ -2,7 +2,7 @@
 
 ### sudomemoDNS-MITM is a fork of the original sudomemoDNS server, designed to act as a Man-In-The-Middle (MITM) proxy for DNS requests. This modified version captures and logs DNS requests and responses between your console and Sudomemo, allowing you to monitor and save the data exchanged during these interactions.
 
-**Note:** This project currently does not have proper support for Windows.
+> **Note:** This project currently does not have proper support for Windows.
 
 ## Setup
 
@@ -28,4 +28,5 @@
 
 ## Getting Help
 
-If you encounter any issues with sudomemoDNS-MITM, please open an issue in this repository. Do not open issues in the original sudomemoDNS repository if your issue is related to sudomemoDNS-MITM.
+If you encounter any issues with sudomemoDNS-MITM, please open an issue in this repository.
+> **Note:** Do not open issues in the original sudomemoDNS repository if your issue is related to sudomemoDNS-MITM.
