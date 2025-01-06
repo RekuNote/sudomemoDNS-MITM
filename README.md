@@ -1,6 +1,6 @@
-![sudomemoDNS-MITM Logo](/sudomemoDNS-MITM_banner.png)
+![sudomemoDNS-MITM Logo](sudomemoDNS-MITM_banner.png)
 
-### sudomemoDNS-MITM is a fork of the original sudomemoDNS server, designed to act as a Man-In-The-Middle (MITM) proxy for DNS requests. This modified version captures and logs DNS requests and responses between your console and Sudomemo, allowing you to monitor and save the data exchanged during these interactions.
+ sudomemoDNS-MITM is a fork of [the original sudomemoDNS server](https://www.github.com/Sudomemo/sudomemoDNS), designed to act as a Man-In-The-Middle (MITM) proxy for DNS requests. This modified version captures and logs DNS requests and responses between your console and Sudomemo, allowing you to monitor and save the data exchanged during these interactions.
 
 > **Note:** This project currently does not have proper support for Windows.
 
@@ -10,7 +10,7 @@
     - Install required dependencies: `pip install dnslib requests`.
 
 2. **Clone the Repository:**
-    - `git clone https://github.com/yourusername/sudomemoDNS-MITM.git`
+    - `git clone https://www.github.com/RekuNote/sudomemoDNS-MITM.git`
     - `cd sudomemoDNS-MITM`
 
 3. **Run the Server:**
